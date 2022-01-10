@@ -39,3 +39,14 @@ a:hover {
     text-decoration: underline;
     color: rgb(26, 26, 255);
 }
+
+.copyright {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(58, 0, 112);
+}
+
+a:hover .copyright {
+    text-decoration: underline;
+    color: rgb(26, 26, 255);
+}
